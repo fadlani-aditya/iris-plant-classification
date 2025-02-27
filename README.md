@@ -7,22 +7,22 @@ Situation: The dataset contains various measurements of Iris flowers, and the ch
 Task: The goal is to develop a Machine Learning model using Random Forest to classify Iris species with high accuracy. The project involves data preprocessing, model training, and performance evaluation.
 
 # Data Set Characteristics
-Number of Instances: 150 (50 samples for each class)
-Number of Attributes: 4 numerical, predictive attributes + 1 target class
-Attribute Information:
-Sepal Length (cm)
-Sepal Width (cm)
-Petal Length (cm)
-Petal Width (cm)
-Class Label:
-Iris-Setosa
-Iris-Versicolor
-Iris-Virginica
-Missing Values: None
-Class Distribution: Each class represents 33.3% of the dataset
-Dataset Creator: R.A. Fisher
-Dataset Donor: Michael Marshall (MARSHALL%PLU@io.arc.nasa.gov)
-Date Released: July 1988
+- **Number of Instances:** 150 (50 samples for each class)
+- **Number of Attributes:** 4 numerical, predictive attributes + 1 target class
+- **Attribute Information:**  
+  - **Sepal Length** (cm)  
+  - **Sepal Width** (cm)  
+  - **Petal Length** (cm)  
+  - **Petal Width** (cm)  
+  - **Class Label:**  
+    - Iris-Setosa  
+    - Iris-Versicolor  
+    - Iris-Virginica  
+- **Missing Values:** None  
+- **Class Distribution:** Each class represents **33.3%** of the dataset  
+- **Dataset Creator:** R.A. Fisher  
+- **Dataset Donor:** Michael Marshall *(MARSHALL%PLU@io.arc.nasa.gov)*  
+- **Date Released:** July 1988  
 
 # Insight
 From the analysis, I discovered several key insights:
